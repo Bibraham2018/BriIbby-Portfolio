@@ -5,7 +5,8 @@ body {
   /* Navigation Bar */
   
   #home {
-    background-color: black;
+    background-image: url() !important;
+    background-size: cover;
     padding-bottom: 1cm;
     margin-left:-1cm;
     margin-right:-1cm;
